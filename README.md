@@ -21,5 +21,10 @@
 ```
     Union operation: combining sets together, duplicate entries will be eradicated. 
     Intersection operation: common value when you combine sets
-    Difference operation:
+    Difference operation: returns a new set containing elements that are in the first set but not in the second set.
 ```    
+
+## Dictionary
+- Collection of key-value pairs, and they are mutable.
+- Each key-value is unique, and the keys are used to store and retrieve values.
+
